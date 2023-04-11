@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.073c9b0a.css",
+    "main.js": "/static/js/main.bf4af5d1.js",
+    "static/media/aura.png": "/static/media/aura.17ca56d87c0a411bdec1.png",
+    "static/media/padel.png": "/static/media/padel.73eb1eb2ee55a75f04f6.png",
+    "index.html": "/index.html",
+    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
+    "main.bf4af5d1.js.map": "/static/js/main.bf4af5d1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.bf4af5d1.js"
+  ]
+}
